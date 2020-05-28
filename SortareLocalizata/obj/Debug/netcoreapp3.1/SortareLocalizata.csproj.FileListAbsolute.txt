@@ -1,0 +1,13 @@
+C:\Users\gaido\source\repos\SortareLocalizata\bin\Debug\netcoreapp3.1\SortareLocalizata.exe
+C:\Users\gaido\source\repos\SortareLocalizata\bin\Debug\netcoreapp3.1\SortareLocalizata.deps.json
+C:\Users\gaido\source\repos\SortareLocalizata\bin\Debug\netcoreapp3.1\SortareLocalizata.runtimeconfig.json
+C:\Users\gaido\source\repos\SortareLocalizata\bin\Debug\netcoreapp3.1\SortareLocalizata.runtimeconfig.dev.json
+C:\Users\gaido\source\repos\SortareLocalizata\bin\Debug\netcoreapp3.1\SortareLocalizata.dll
+C:\Users\gaido\source\repos\SortareLocalizata\bin\Debug\netcoreapp3.1\SortareLocalizata.pdb
+C:\Users\gaido\source\repos\SortareLocalizata\obj\Debug\netcoreapp3.1\SortareLocalizata.csprojAssemblyReference.cache
+C:\Users\gaido\source\repos\SortareLocalizata\obj\Debug\netcoreapp3.1\SortareLocalizata.csproj.CoreCompileInputs.cache
+C:\Users\gaido\source\repos\SortareLocalizata\obj\Debug\netcoreapp3.1\SortareLocalizata.AssemblyInfoInputs.cache
+C:\Users\gaido\source\repos\SortareLocalizata\obj\Debug\netcoreapp3.1\SortareLocalizata.AssemblyInfo.cs
+C:\Users\gaido\source\repos\SortareLocalizata\obj\Debug\netcoreapp3.1\SortareLocalizata.dll
+C:\Users\gaido\source\repos\SortareLocalizata\obj\Debug\netcoreapp3.1\SortareLocalizata.pdb
+C:\Users\gaido\source\repos\SortareLocalizata\obj\Debug\netcoreapp3.1\SortareLocalizata.genruntimeconfig.cache
