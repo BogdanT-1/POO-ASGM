@@ -17,7 +17,7 @@ namespace ConsoleApp146
         }
         static void Main(string[] args)
         {
-            int[] v = { 12, 11, 13, 5, 6, 7 };
+            int[] v = { 2, 11, 1, 19, 6, 7,43,21 };
             int n = v.Length;
             Print(v);
             HeapSort h = new HeapSort();
