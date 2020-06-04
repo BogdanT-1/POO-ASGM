@@ -1,0 +1,6 @@
+C:\Users\Bogdi.DESKTOP-SHEFDBL\source\repos\ConsoleApp146\ConsoleApp146\bin\Debug\ConsoleApp146.exe.config
+C:\Users\Bogdi.DESKTOP-SHEFDBL\source\repos\ConsoleApp146\ConsoleApp146\bin\Debug\ConsoleApp146.exe
+C:\Users\Bogdi.DESKTOP-SHEFDBL\source\repos\ConsoleApp146\ConsoleApp146\bin\Debug\ConsoleApp146.pdb
+C:\Users\Bogdi.DESKTOP-SHEFDBL\source\repos\ConsoleApp146\ConsoleApp146\obj\Debug\ConsoleApp146.csprojAssemblyReference.cache
+C:\Users\Bogdi.DESKTOP-SHEFDBL\source\repos\ConsoleApp146\ConsoleApp146\obj\Debug\ConsoleApp146.exe
+C:\Users\Bogdi.DESKTOP-SHEFDBL\source\repos\ConsoleApp146\ConsoleApp146\obj\Debug\ConsoleApp146.pdb
